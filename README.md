@@ -1,6 +1,6 @@
 # Bioinformatics-course
 
-https://www.coursera.org/learn/dna-analysis/
+[Link to course on Coursera](https://www.coursera.org/learn/dna-analysis/)
 
 
 ## Description
@@ -13,5 +13,5 @@ The datasets used in the course to test the code are attached in the CodeChallen
 
 
 ## Certificate
-https://www.coursera.org/account/accomplishments/verify/WQLFQ57493GS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/WQLFQ57493GS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 
